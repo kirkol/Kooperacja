@@ -151,7 +151,6 @@ public class Login {
 			}
 		});
 		
-		
 		JLabel lblLogin = new JLabel("Log in");
 		lblLogin.setFont(new Font("Century", Font.BOLD, 24));
 		lblLogin.setBounds(170, 11, 146, 50);
